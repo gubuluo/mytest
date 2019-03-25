@@ -1,3 +1,5 @@
 .idea
+
 target
-demo_test.iml
+demo_test
+*.iml
